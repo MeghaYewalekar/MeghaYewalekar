@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MeghaYewalekar/MeghaYewalekar/blob/main/MyBanner.png)
 <h1 align="center">Hi 👋, I'm Megha Yewalekar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
